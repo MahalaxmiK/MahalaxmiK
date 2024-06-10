@@ -11,3 +11,5 @@
 * 📫 How to reach me: <mahalaxmi.kalappa@gmail.com>
 
 ## Languages/Tools:
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
