@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 * 🔭 I’m currently working at Motorola Solutions as a Software Engineer!!
 
 * 🌱 I’m currently learning C#
+
+* 📫 How to reach me: <mahalaxmi.kalappa@gmail.com>
