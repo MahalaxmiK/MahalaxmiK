@@ -11,5 +11,4 @@
 * 📫 How to reach me: <mahalaxmi.kalappa@gmail.com>
 
 ## Languages/Tools:
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
