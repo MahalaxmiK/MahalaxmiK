@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Mahalaxmi!!!
 
-![](https://mahalaxmik.com/ghpvc/?username=MahalaxmiK)
+![](https://komarev.com/ghpvc/?username=MahalaxmiK)
 
 * 🔭 I’m currently working at Motorola Solutions as a Software Engineer!!
 
