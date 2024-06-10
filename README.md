@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working at Motorola Solutions as a Software Engineer!!
-🌱 I’m currently learning C#
+* 🔭 I’m currently working at Motorola Solutions as a Software Engineer!!
+
+* 🌱 I’m currently learning C#
